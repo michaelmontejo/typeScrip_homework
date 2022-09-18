@@ -1,0 +1,19 @@
+{
+  "name": "homework_typescript",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "typescript",
+    "homework"
+  ],
+  "author": "mickeimon",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
